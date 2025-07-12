@@ -1,1 +1,0 @@
-# Discord-RAG-chatbot
